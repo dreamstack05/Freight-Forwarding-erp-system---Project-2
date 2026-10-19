@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Freight Forwarding ERP System",
+  "description": "A comprehensive freight forwarding ERP application with module tracking for Sales Leads, Call Sheets, Shipment Management, Sailing Schedules, Consolidation (Consol), and JWT Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
